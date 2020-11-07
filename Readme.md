@@ -16,6 +16,9 @@
 
 [JGrowing](https://github.com/javagrowing/JGrowing)：Java成长路线；
 
+[JavaKeeper](https://github.com/Jstarfish/JavaKeeper)： Java 工程师必备架构体系知识总结：
+涵盖分布式、微服务、RPC等互联网公司常用架构，以及数据存储、缓存、搜索等必备技能   
+
 [SpringBootGuide(中文)](https://github.com/Snailclimb/springboot-guide)
 
 [Spring 系列教程](https://github.com/wuyouzhuguli/SpringAll)
@@ -40,7 +43,10 @@
 
 [vhr](https://github.com/lenve/vhr)：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
 
+# 布列
+[SVGnest](https://github.com/zugle/SVGnest)：javascript写的；  
 
+[Deepnest](https://github.com/zugle/Deepnest)：还是js写的，不过用了线程池；  
 
 
 
